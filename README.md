@@ -46,10 +46,10 @@
 
 ```bash
 # 用户级（全局可用）
-git clone https://github.com/sun-zihang/daily-patrol.git ~/.agents/skills/daily-patrol
+git clone https://github.com/meat-daemon-404/daily-patrol.git ~/.agents/skills/daily-patrol
 
 # 或项目级（仅本仓库可用）
-git clone https://github.com/sun-zihang/daily-patrol.git .agents/skills/daily-patrol
+git clone https://github.com/meat-daemon-404/daily-patrol.git .agents/skills/daily-patrol
 ```
 
 装好后对 Agent 说「跑一轮每日巡查 / 做一次例行体检」即可触发；也可以直接引用：
@@ -72,7 +72,7 @@ daily-patrol/
 
 ## 出处
 
-这套流程提炼自 [智阅矩阵 ScholarMatrix](https://github.com/sun-zihang/scholarmatrix)（浏览器端学术文献工具）的日常巡查实践——数十轮全量体检、安全例行轮与运行时体检中反复校准出来的分诊协议与判例。线上实例：[scholarmatrix.pages.dev](https://scholarmatrix.pages.dev/)。
+这套流程提炼自 [智阅矩阵 ScholarMatrix](https://github.com/meat-daemon-404/scholarmatrix)（浏览器端学术文献工具）的日常巡查实践——数十轮全量体检、安全例行轮与运行时体检中反复校准出来的分诊协议与判例。线上实例：[scholarmatrix.pages.dev](https://scholarmatrix.pages.dev/)。
 
 ## License
 

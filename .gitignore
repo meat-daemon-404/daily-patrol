@@ -1,0 +1,15 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Temporary audit worktrees & scratch outputs
+.tmp/
+.worktrees/
+wt_audit/
+*.log
+*.tmp
